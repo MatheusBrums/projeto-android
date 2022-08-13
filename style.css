@@ -9,13 +9,13 @@
     src: url('fontes/idroid.otf') format('opentype');
 }
 body{
-    background-color: rgb(201, 161, 32);
+    background-color: rgb(16, 19, 12);
     background-attachment: fixed;
     padding: 0px;
     margin: 0px;
 }
 header{
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.63), rgba(29, 175, 29, 0.726));
+    background-image: linear-gradient(to top, rgba(13, 94, 17, 0.63) 30%, rgba(29, 175, 29, 0.726));
     box-shadow: 0px 14px 10px rgba(56, 53, 53, 0.336);
     padding: 0px;
     margin: 0px;
@@ -31,7 +31,7 @@ header > h1{
     padding-top: 30px;
 }
 header > p{
-    margin-bottom: 20px;
+    padding-bottom: 25px;
 }
 li{
   
